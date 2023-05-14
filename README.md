@@ -19,7 +19,7 @@ Jogo criado em JavaScript, utilizando API de reconhecimento de voz, em que o pro
 
 ## 📁 Acesso ao projeto
 
-[Clique aqui para acessar](https://mochila-de-viagem-rho-lyart.vercel.app/)
+[Clique aqui para acessar](https://ericksilverio00.github.io/Adivinhacao/)
 
 ## 🛠️ Abrir e rodar o projeto
 

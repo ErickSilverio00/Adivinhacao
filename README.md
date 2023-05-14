@@ -5,11 +5,11 @@ Projeto feito a partir de curso da formação JavaScript da Alura.
   
 # Adivinhacao
 
-Página Web criada com base em treinamento de JavaScript da Alura, de uma página web onde todo usuário poderá usá-la de maneira individual para adicionar todos os itens que deve colocar em sua mochila de viagem e depois consultar a página para se lembrar dos itens.
+Jogo criado em JavaScript, utilizando API de reconhecimento de voz, em que o programa sorteia um número e o usuário deve tentar acertá-lo a partir da fala. Projeto feito a partir de curso da Formação JavaScript
 
 ## 🔨 Funcionalidades do projeto
 
-Página Web criada com base em treinamento de JavaScript da Alura, de uma página web onde todo usuário poderá usá-la de maneira individual para adicionar todos os itens que deve colocar em sua mochila de viagem e depois consultar a página para se lembrar dos itens.
+Jogo criado em JavaScript, utilizando API de reconhecimento de voz, em que o programa sorteia um número e o usuário deve tentar acertá-lo a partir da fala. Projeto feito a partir de curso da Formação JavaScript
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
